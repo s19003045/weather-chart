@@ -8,7 +8,27 @@ Use Chart.js and open data weather API to build a weather chart
 - build a line chatbot webhook
 - use LINE messaging API for user to query weather and respond a image to user
 
-## Install
+## prerequisite
+- node.js
+  - version 12.16.1
+- install nodemon globally
+  ```
+  npm install -g nodemon
+  ```
+
+## install
+- git clone
+  ```
+    git clone https://github.com/s19003045/weather-chart.git
+  ```
+- npm install all package in package.json
+  ```
+    npm install 
+  ```
+- start server
+  ```
+    npm run dev
+  ```
 
 
 ## Author
